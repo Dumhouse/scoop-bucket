@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Dumhouse/clavis/releases/download/v0.3.0/clavis_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/Dumhouse/clavis/releases/download/v0.3.1/clavis_0.3.1_windows_amd64.zip",
             "bin": [
                 "clavis.exe"
             ],
-            "hash": "8bf9c09a6e38da2a469b39cbd54870543405ede0f8a16039a30c33d825691aac"
+            "hash": "f55b4c90f1728b242dec5b7fdde7f5a3bccb753ba6b704fc7dad611732bb957e"
         },
         "arm64": {
-            "url": "https://github.com/Dumhouse/clavis/releases/download/v0.3.0/clavis_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/Dumhouse/clavis/releases/download/v0.3.1/clavis_0.3.1_windows_arm64.zip",
             "bin": [
                 "clavis.exe"
             ],
-            "hash": "57758512ae22f895a3bb61f578dea269d461b0be5edf10ead3f9cce4fb64571d"
+            "hash": "413261d7858f32140cf67fb0aea50651735ab102cbf4f77bf5cb5065f9b9be3d"
         }
     },
     "homepage": "https://dumhouse.github.io/clavis/",
